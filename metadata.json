@@ -1,0 +1,6 @@
+{
+  "name": "Life Medical Hall",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Gaya, Bihar. Providing 100% genuine medicines, healthcare devices, and surgical supplies with easy WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
