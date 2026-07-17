@@ -186,7 +186,7 @@ export default function Footer({ setActiveTab }: FooterProps) {
       {/* Policies & Copyright Section */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs font-medium text-slate-500">
         <div className="text-center sm:text-left">
-          <p>© {new Date().getFullYear()} {BUSINESS_INFO.name}. All Rights Reserved.</p>
+          <p>© {new Date().getFullYear()} {BUSINESS_INFO.name}. All Rights Reserved. Developed by <a href="https://main.webmakerit.com" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors underline">WMIT</a>.</p>
           <p className="text-[10px] text-slate-600 mt-1 leading-relaxed">
             Registered Pharmacy License. Developed as a high-performance modern web experience.
           </p>
