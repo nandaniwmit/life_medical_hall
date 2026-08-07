@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lifemedicalhall.com/sitemap.xml
+Sitemap: https://life-medical-hall.vercel.app/sitemap.xml
